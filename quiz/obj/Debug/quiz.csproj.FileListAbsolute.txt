@@ -1,0 +1,191 @@
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\quiz.dll.config
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\quiz.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\quiz.pdb
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csc.exe
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csc.exe.config
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csc.rsp
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csi.exe
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csi.exe.config
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\csi.rsp
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.AppContext.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Collections.Immutable.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Console.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.IO.Compression.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.IO.FileSystem.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.IO.Pipes.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Reflection.Metadata.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.AccessControl.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Claims.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.ValueTuple.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Xml.XPath.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\vbc.exe
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\vbc.exe.config
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\vbc.rsp
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\VBCSCompiler.exe
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\roslyn\VBCSCompiler.exe.config
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Antlr3.Runtime.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Microsoft.Web.Infrastructure.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Newtonsoft.Json.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Helpers.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Mvc.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Optimization.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Razor.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.Deployment.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.Razor.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\WebGrease.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Helpers.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Mvc.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Optimization.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.Razor.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.Deployment.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\System.Web.WebPages.Razor.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Newtonsoft.Json.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Antlr3.Runtime.pdb
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\obj\Debug\quiz.csproj.CopyComplete
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\obj\Debug\quiz.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\obj\Debug\quiz.pdb
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\EntityFramework.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\EntityFramework.SqlServer.dll
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\EntityFramework.xml
+F:\Lenovo\PUCIT\6th Semester\EAD\Term Project\quiz\quiz\bin\EntityFramework.SqlServer.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\quiz.dll.config
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\quiz.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\quiz.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csc.exe
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csc.exe.config
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csc.rsp
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csi.exe
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csi.exe.config
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\csi.rsp
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.AppContext.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Collections.Immutable.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Console.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.IO.Compression.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.IO.FileSystem.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.IO.Pipes.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.AccessControl.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Claims.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.ValueTuple.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Xml.XPath.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\vbc.exe
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\vbc.exe.config
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\vbc.rsp
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\VBCSCompiler.exe
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\roslyn\VBCSCompiler.exe.config
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Antlr3.Runtime.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\EntityFramework.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\EntityFramework.SqlServer.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.Web.Infrastructure.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Newtonsoft.Json.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Helpers.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Mvc.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Optimization.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Razor.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.Deployment.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.Razor.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\WebGrease.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\EntityFramework.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\EntityFramework.SqlServer.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Helpers.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Mvc.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Optimization.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.Razor.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.Deployment.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Web.WebPages.Razor.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Newtonsoft.Json.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Antlr3.Runtime.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\obj\Debug\quiz.csproj.CopyComplete
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\obj\Debug\quiz.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\obj\Debug\quiz.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.Agent.Intercept.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.DependencyCollector.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.Web.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.WindowsServer.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.ApplicationInsights.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Buffers.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Diagnostics.DiagnosticSource.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Memory.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Numerics.Vectors.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.DependencyCollector.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.DependencyCollector.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.PerfCounterCollector.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.Web.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.Web.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.WindowsServer.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AI.WindowsServer.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.ApplicationInsights.pdb
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.ApplicationInsights.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Buffers.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Diagnostics.DiagnosticSource.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Memory.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Numerics.Vectors.xml
+D:\A_Final_Projects\Quiz-System-master\quiz\quiz\bin\System.Runtime.CompilerServices.Unsafe.xml
